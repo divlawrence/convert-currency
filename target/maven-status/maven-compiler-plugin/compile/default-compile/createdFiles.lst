@@ -1,0 +1,5 @@
+com\example\convertcurrency\controller\ConvertCurrencyController.class
+com\example\convertcurrency\service\ConvertCurrencyService.class
+com\example\convertcurrency\dto\CurrencyDTO.class
+com\example\convertcurrency\ConvertCurrencyApplication.class
+com\example\convertcurrency\service\ConvertCurrencyServiceProxy.class
